@@ -3,7 +3,7 @@
   "short_name": "ElectroMaster",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f2f5f8",
+  "background_color": "#eef2f6",
   "theme_color": "#142235",
   "lang": "ru",
   "icons": [
